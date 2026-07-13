@@ -18,4 +18,4 @@ A simple and responsive stopwatch built using HTML, CSS, and JavaScript.
 - ⏱️ Large digital timer display
   
 
-Built for learning and practicing HTML, CSS, and JavaScript.
+<h3>Built for learning and practicing HTML, CSS, and JavaScript.</h3>
